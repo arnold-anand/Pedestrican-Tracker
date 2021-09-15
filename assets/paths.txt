@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Intel\openvino_2021.4.582\bin
+
+C:\Program Files (x86)\Intel\openvino_2021.4.582\deployment_tools\tools\model_downloader
+
+C:\Users\<username>\Documents\Intel\OpenVINO\omz_demos_build\intel64\Release
+
+pedestrian_tracker_demo.exe -i sample.mp4 -m_det person-detection-retail-0013.xml -m_reid person-reidentification-retail-0288.xml
+
+replace <username> accordingly
