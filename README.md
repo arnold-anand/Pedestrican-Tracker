@@ -2,15 +2,15 @@
 Pedestrian Tracking scenario: it reads frames from an input video sequence, detects pedestrians in the frames, and builds trajectories of movement of the pedestrians in a frame-by-frame manner, using Intel OpenVino.
 Total of two models are being used.
 
-First model is used to detect people (indicated in blue bounding boxes)
+First model is used to detect people (indicated in blue bounding boxes).
 
-The second model is used to reidentify the person i.e compare the detected person/people to the previous frame in the feed/video.
+The second model is used to re-identify the person i.e compare the detected person/people to the previous frame in the feed/video.
 
 The trajectory of the reidentified person is drawn and a count number is assigned.
 
 ## Possible Usecases
 
-Since the tracking and counting are basics in computer vision, there are unlimited number of usecases couple of examples are listed below
+Since the tracking and counting are basics in computer vision, there are unlimited number of usecases, couple of examples are listed below
 1. Social Distancing Tracker
 2. Self Driving Car
 3. Crowd detection
