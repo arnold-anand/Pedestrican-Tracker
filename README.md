@@ -21,6 +21,8 @@ Since the tracking and counting are basics in computer vision, there are unlimit
 3. Cmake
 4. Visual Studio
 
+Platform Used: Windows 10
+
 ### Installation Instructions
 
 Kindly refer to https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_windows.html
